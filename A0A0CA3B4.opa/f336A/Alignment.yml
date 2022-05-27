@@ -1,0 +1,63 @@
+segment_sources:
+  ICAC38C61:
+    type: origin_type
+    relation: translation
+    language: sa
+  ICE87A898:
+    type: origin_type
+    relation: translation
+    language: zh
+  I74854880:
+    type: origin_type
+    relation: translation
+    language: bo
+  ID2856365:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  4cb9236c78094c32b590d1108a9236ef:
+    ICAC38C61: a089cb8a84ad40b6879ab145a5baaf24
+    ICE87A898: c4cc18e45d3f4d57aadb8c39cccc194d
+    I74854880: c7ceaa07ddeb4360a282fb74b566a93f
+    ID2856365: eb91020ba80f472fa8ccd4af95902c36
+  4bc964782bef43159ef48c105e296689:
+    ICAC38C61: 154bcbe5f39a4915832476ffc20acfdd
+    ICE87A898: bb34dee0a0a94abc9303938ba8044bdf
+    I74854880: 0405a47fc17342d6af8a4e94c0565c55
+    ID2856365: 9aeeabba81bd494cbc73ef4ac079fbe5
+  3ccb7a7741fa4b19a4ea4095a87f4add:
+    ICAC38C61: 9c222efe5e7b4d4b98cc7e6127160349
+    ICE87A898: 4385c3d59a8f4ca9a64f144222bd673c
+    I74854880: bc4b0bd80ab64c1aa8038dc1e3350287
+    ID2856365: 173499b60bf24bdaa20170cd9a2d02a7
+  c53b5297dcd447a5a8dffc85eb38b643:
+    ICAC38C61: af32b3d1be024615a29d804efaf7803e
+    ICE87A898: 4b97658c8c21410487bc59b5c38049b4
+    I74854880: 2365cd9f99b54cb794841de945e4d9fb
+    ID2856365: aa83a60df9674583b4689f4ab8ba2f73
+  3c0d52a91b1a4803bafed80336e6bc02:
+    ICAC38C61: 313ba30acc374a3ead0edefe9dd20d01
+    ICE87A898: 2e2bf2f9067d4d42a22cf54c14ed51fc
+    I74854880: 51fdaa8cb53048fc90839d5034a5e11c
+    ID2856365: b271e43aca364dd4ae12677786d99c6d
+  09362b2bac644ac595935bb698cfa3ac:
+    ICAC38C61: 89a85220529e4329aba18f4c2f9e5862
+    ICE87A898: 48df3a4278174a968f61d2ff16886b94
+    I74854880: 5e4dfadcc52b41aca57f98ef9e1f7770
+    ID2856365: 5dd42dcb425e4416bc20a63aecb9f325
+  de892b319c2d4cf08b3139bbedce9c5d:
+    ICAC38C61: 7b423a0e2339431bbba0c710fbeb3f11
+    ICE87A898: 8b4e124377d5485b922237eab37bed6a
+    I74854880: 36310c1e6a1f440c8f5be63f17a67944
+    ID2856365: e45a3a3150da45ea89be0c5007879b5e
+  77a2e1f3c7eb47cb916db34681ddacad:
+    ICAC38C61: 26e8ee54979549ab87bfb0dbbccfca10
+    ICE87A898: 6f6366c40ed442fb93e50405c46d44eb
+    I74854880: 31292bd082254d2fa903cdd840abd656
+    ID2856365: 766427606e3349e8af7d25456828a5a1
+  17e9ea6d279843cfb292e793f0d9a2be:
+    ICAC38C61: 72da991eb87b4f048ea290eb501c43c6
+    ICE87A898: fca17e45c509403480e6085c41ab0c3b
+    I74854880: None
+    ID2856365: 43dc64a0aeef40bbbc13ff7fcfe65060
